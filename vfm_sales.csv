@@ -1,0 +1,55 @@
+Item,Unit,Price for Farmer/unit,Volume,Total
+Beans [Bush],Bags,3.25,82.0,266.5
+Beans [Fava],Bags,2.6,12.0,31.2
+Beets,Bags,3.75,84.0,315.0
+Beets,Bags,4.5,5.0,22.5
+Beets,Bunches,2.75,44.0,121.0
+Bok Choi,Bags,1.5,5.0,7.5
+Bok Choi,Bags,1.75,5.0,8.75
+Broccoli,Bunches,3.5,12.0,42.0
+Broccoli,lbs,4.0,10.0,40.0
+Carrots,Bags,3.25,20.0,65.0
+Carrots,Bags,3.5,10.0,35.0
+Carrots,Bunches,3.25,14.0,45.5
+Carrots,Bunches,3.5,20.0,70.0
+Cauliflower,lbs,2.75,12.5,34.38
+Cucumbers,Each,1.25,98.0,122.5
+Eggplant,Bags,3.75,15.0,56.25
+Eggplant,lbs,3.0,10.0,30.0
+Fennel,Each,2.4,5.0,12.0
+Garlic Scapes,lbs,6.0,2.0,12.0
+Kale,Bunches,2.5,182.0,455.0
+Kale,Bunches,3.0,78.0,234.0
+Kale (Baby),lbs,10.0,1.5,15.0
+Kolhrabi,lbs,3.0,10.0,30.0
+Leek,lbs,2.35,75.0,176.25
+Leek,lbs,2.4,10.0,24.0
+Lettuce,Each,2.5,14.0,35.0
+Lettuce,Heads,2.5,86.0,215.0
+Lettuce,Heads,3.5,68.0,238.0
+Lettuce,Units,2.5,7.0,17.5
+Lettuce,ea (heads),3.5,15.0,52.5
+Mint,Bunches,2.0,14.0,28.0
+Mint,Bunches,2.25,10.0,22.5
+Mint,Bunches,10.0,3.0,30.0
+Onion,lbs,1.5,25.0,37.5
+Onions [Walla],lbs,1.5,50.0,75.0
+Peppers,Bags,5.0,37.0,185.0
+Peppers,lbs,3.75,6.5,24.38
+Peppers [Hot],Bags,2.5,9.0,22.5
+Peppers [Hot],Pints,2.5,15.0,37.5
+Radishes,Bunches,2.5,10.0,25.0
+Salad Greens,bulk,10.0,2.0,20.0
+Salad Greens,lbs,10.0,35.0,350.0
+Salad Greens,lbs (bagged),10.0,4.5,45.0
+Salad Greens,lbs (bulk),10.0,2.0,20.0
+Spinach,Bunches,3.0,18.0,54.0
+Spinach,lbs (bulk),9.5,5.0,47.5
+Squash,lbs,1.1,10.0,11.0
+Squash[mini],lbs,1.35,20.0,27.0
+Summer Squash,Bags,3.0,26.0,78.0
+Summer Squash,Each,1.25,180.0,225.0
+Summer Squash,Units,1.25,127.0,158.75
+Swiss Chard,Bunches,2.5,159.0,397.5
+Swiss Chard,Bunches,3.0,25.0,75.0
+Zucchini,Each,1.25,19.0,23.75
